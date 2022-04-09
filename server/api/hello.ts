@@ -1,0 +1,1 @@
+export default (req, res) => 'Server time is ' + new Date().toLocaleTimeString()
